@@ -1,18 +1,16 @@
-# Maze
+# Monster Maker
 # English
 
-First, thank you for reading the README, here I will explain and have some instructions on how to play the game: 
+First, thank you for reading the README, hereafter I will explain, and have some announcements about the project:
 
-1 : Game tutorial : you use the arrow keys to move the character and use the Space button to turn on and off the light. 
-Rule: When you find the escape route in the maze, you should pay attention that the maze will have many lights placed everywhere, when you get close and press the space key, the light will turn on and gradually lower, giving you a glimpse of the map, helping you remember the maze's route. Also, the light of the lamp also causes some cave doors to open, after a few seconds the light will turn off and the doors will close again. There are many monsters in the maze so you have to avoid them if you get hit by them it's Game Over.
+1 about the demo : I'm sorry for not being able to publish the game on the website to download and try it out, because the project hasn't been released yet, so for the security of the project I won't be able to share the source project, and I can only share the source code I have contributed in this project.
 
-2 : If you choose one of the two game platforms to download, both platform files have an attachment _ MACOSX, don't worry if you choose windows, it is certainly the zip file I built to work on windows, to avoid misunderstanding, I only provide the platform for macos. Thank you.
-
+2 battle emulator : in this system I'm in charge of supporting teacher goto, a unity teacher at school, to create this system, and also because of security, I can't provide a sample for you to see, so I only provide get part of the source code.
 
 # 日本語　
 
-最初に、READMEを読んでいただきありがとうございます。ここでは、ゲームのプレイ方法について説明し、いくつかの指示を提供します。
+最初に、READMEをお読みいただきありがとうございます。以下、プロジェクトについて説明し、いくつかの発表を行います。
 
-1: プレイ方法: 矢印キーを使用してキャラクターを移動し、スペースキーを使用してライトをオン・オフする。ルール: 迷路からの脱出ルートを見つけた場合、迷路には全ての場所に多くのスイッチが置かれていることに注意してください。近づいてスペースキーを押すと、光がオンになり、徐々に下がり、地図の片鱗を見ることができます。迷路の道を覚えるのに役立ちます。また、ランプの光は一部の迷路の扉を開く原因にもなります。数秒後には光が消え、扉が閉じます。迷路には多くのモンスターがいるため、彼らに当たらないようにしなければならない。彼らに当たった場合、ゲームオーバーになります。
+1 デモについて : プロジェクトがまだリリースされていないため、ゲームを Web サイトに公開してダウンロードして試すことができず、申し訳ありませんが、プロジェクトのセキュリティのためにできません。 ソース プロジェクトを共有するには、私はこのプロジェクトに貢献したソース コードのみを共有できます。
 
-2: もしあなたが2つのゲームプラットフォームから1つを選んでダウンロードする場合、2つのプラットフォームのファイルには_MACOSXという添付ファイルがあります。Windowsを選んだ場合は、私がWindowsで動作するようにビルドしたzipファイルですので心配しないでください。誤解を避けるため、私はmacos用のプラットフォームを提供しているだけです。ありがとございます。
+2 バトルエミュレーター : このシステムでは、私は学校の Unity 教師である後藤先生がこのシステムを作成するためのサポートを担当しています。また、セキュリティ上の理由から、サンプルを表示することはできないため、自分が貢献したソースコードの一部提供するだけです。
